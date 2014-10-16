@@ -1,4 +1,4 @@
-Name,Address1,Address2,City,State,Code,Website
-Brouwerij De Achelse Kluis,De Kluis 1,?,Achel,VLI,?,?
-Brouwerij Kerkom,Naamsesteenweg 469,?,Kerkom,VLI,?,?
-Brouwerij Sint-Jozef,Itterplein 19,?,Opitter,VLI,?,?
+Name,Address,City,State,Code,Website
+Brouwerij De Achelse Kluis,De Kluis 1,Achel,VLI,?,?
+Brouwerij Kerkom,Naamsesteenweg 469,Kerkom,VLI,?,?
+Brouwerij Sint-Jozef,Itterplein 19,Opitter,VLI,?,?

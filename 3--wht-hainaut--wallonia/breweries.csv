@@ -1,15 +1,15 @@
-Name,Address1,Address2,City,State,Code,Website
-Brasserie d'Ecaussinnes,rue Restaumont | 118,?,Ecaussinnes,WHT,?,?
-Brasserie de Blaugies,Rue de la Frontire | 435,?,Blaugies,WHT,?,?
-Brasserie de Brunehaut,Rue de Panneries 17,?,Brunehaut,WHT,7623,www.brunehaut.com
-Brasserie de l'Abbaye de Scourmont (Trappistes),Route de Rond Point 294,?,Chimay-Forges,WHT,?,?
-Brasserie De L'Abbaye Des Rocs,Chausse Brunehault 37,?,Montignies-sur-Roc,WHT,?,?
-Brasserie de Silly,Rue Ville Basse 141,?,Silly,WHT,?,?
-Brasserie des Gants,rue du Castel | 19,?,Irchonwelz,WHT,?,?
-Brasserie Dubuisson,Chause de Mons 28,?,Pipaix,WHT,?,?
-Brasserie Dupont,Rue Basse 5,?,Tourpes,WHT,?,?
-Brasserie Ellezelloise,Rue Guinaumont 75,?,Ellezelles,WHT,?,?
-Brasserie La Binchoise,Rue Faubourg St Paul 38,?,Binche,WHT,?,?
-Brasserie Val de Sambre,Rue Vandervelde 273,?,Goze,WHT,?,?
-Brouwerij Alken-Maes,Rue Derbque 7,?,Jumet,WHT,?,?
-Brouwerij St-Feuillien,20 | rue d'Houdeng,?,Le Roeulx,WHT,?,?
+Name,Address,City,State,Code,Website
+Brasserie d'Ecaussinnes,rue Restaumont | 118,Ecaussinnes,WHT,?,?
+Brasserie de Blaugies,Rue de la Frontire | 435,Blaugies,WHT,?,?
+Brasserie de Brunehaut,Rue de Panneries 17,Brunehaut,WHT,7623,www.brunehaut.com
+Brasserie de l'Abbaye de Scourmont (Trappistes),Route de Rond Point 294,Chimay-Forges,WHT,?,?
+Brasserie De L'Abbaye Des Rocs,Chausse Brunehault 37,Montignies-sur-Roc,WHT,?,?
+Brasserie de Silly,Rue Ville Basse 141,Silly,WHT,?,?
+Brasserie des Gants,rue du Castel | 19,Irchonwelz,WHT,?,?
+Brasserie Dubuisson,Chause de Mons 28,Pipaix,WHT,?,?
+Brasserie Dupont,Rue Basse 5,Tourpes,WHT,?,?
+Brasserie Ellezelloise,Rue Guinaumont 75,Ellezelles,WHT,?,?
+Brasserie La Binchoise,Rue Faubourg St Paul 38,Binche,WHT,?,?
+Brasserie Val de Sambre,Rue Vandervelde 273,Goze,WHT,?,?
+Brouwerij Alken-Maes,Rue Derbque 7,Jumet,WHT,?,?
+Brouwerij St-Feuillien,20 | rue d'Houdeng,Le Roeulx,WHT,?,?

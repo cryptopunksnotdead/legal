@@ -1,15 +1,15 @@
-Name,Address1,Address2,City,State,Code,Website
-3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Hoogstraat 2A,?,Beersel,VBR,?,www.3fonteinen.be/index.htm
-Brasserie de la Senne,Victor Nonnemansstraat 40a,?,Sint-Pieters-Leeuw,VBR,?,?
-Brewery De Troch,Langestraat 20,?,Ternat,VBR,?,?
-Brouwerij Artois,Vaartstraat 94,?,Leuven,VBR,?,?
-Brouwerij Boon,Fonteinstraat 65,?,Lembeek,VBR,?,?
-Brouwerij De Block,Nieuwbaan 92,?,Merchtem-Peizegem,VBR,?,?
-Brouwerij De Keersmaeker,Lierput 1,?,Kobbegem,VBR,?,?
-Brouwerij De Smedt,Ringlaan 18,?,Opwijk,VBR,?,?
-Brouwerij Duysters,Michel Theysstraat 58A,?,Diest,VBR,?,?
-Brouwerij Girardin,Lindenbergstraat 10,?,Sint-Ulriks-Kapelle,VBR,?,?
-Brouwerij Lindemans,Lenniksebaan 257,?,Vlezenbeek,VBR,?,?
-Brouwerij Oud Beersel,Laarheiestraat 230,?,Beersel,VBR,?,?
-Brouwerij van Hoegaarden,Stoopkensstraat 46,?,Hoegaarden,VBR,?,?
-Hanssens Artisanal,Vroenenbosstraat 15,?,Dworp,VBR,?,?
+Name,Address,City,State,Code,Website
+3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Hoogstraat 2A,Beersel,VBR,?,www.3fonteinen.be/index.htm
+Brasserie de la Senne,Victor Nonnemansstraat 40a,Sint-Pieters-Leeuw,VBR,?,?
+Brewery De Troch,Langestraat 20,Ternat,VBR,?,?
+Brouwerij Artois,Vaartstraat 94,Leuven,VBR,?,?
+Brouwerij Boon,Fonteinstraat 65,Lembeek,VBR,?,?
+Brouwerij De Block,Nieuwbaan 92,Merchtem-Peizegem,VBR,?,?
+Brouwerij De Keersmaeker,Lierput 1,Kobbegem,VBR,?,?
+Brouwerij De Smedt,Ringlaan 18,Opwijk,VBR,?,?
+Brouwerij Duysters,Michel Theysstraat 58A,Diest,VBR,?,?
+Brouwerij Girardin,Lindenbergstraat 10,Sint-Ulriks-Kapelle,VBR,?,?
+Brouwerij Lindemans,Lenniksebaan 257,Vlezenbeek,VBR,?,?
+Brouwerij Oud Beersel,Laarheiestraat 230,Beersel,VBR,?,?
+Brouwerij van Hoegaarden,Stoopkensstraat 46,Hoegaarden,VBR,?,?
+Hanssens Artisanal,Vroenenbosstraat 15,Dworp,VBR,?,?

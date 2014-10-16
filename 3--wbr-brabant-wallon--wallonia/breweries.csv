@@ -1,4 +1,4 @@
-Name,Address1,Address2,City,State,Code,Website
-Brasserie Lefebvre,Chemin du Croly 52,?,Quenast,WBR,?,?
-Folx-les-Caves,B-1350 Jauche,?,Jauche,WBR,?,?
-Palm Breweries,Steenhuffeldorp 3,?,Steenhuffel,WBR,1840,www.palmbreweries.com
+Name,Address,City,State,Code,Website
+Brasserie Lefebvre,Chemin du Croly 52,Quenast,WBR,?,?
+Folx-les-Caves,B-1350 Jauche,Jauche,WBR,?,?
+Palm Breweries,Steenhuffeldorp 3,Steenhuffel,WBR,1840,www.palmbreweries.com

@@ -1,4 +1,4 @@
-Name,Address1,Address2,City,State,Code,Website
-Brasserie de l'Abbaye Val-Dieu,Val Dieu 225,?,Aubel,WLG,?,?
-Brasserie de Vervifontaine,Vervierfontaine 100,?,Jalhay-Vervifontaine,WLG,?,?
-Brennerei-Distillerie Radermacher,Spitalstrasse 50,?,Raeren,WLG,?,?
+Name,Address,City,State,Code,Website
+Brasserie de l'Abbaye Val-Dieu,Val Dieu 225,Aubel,WLG,?,?
+Brasserie de Vervifontaine,Vervierfontaine 100,Jalhay-Vervifontaine,WLG,?,?
+Brennerei-Distillerie Radermacher,Spitalstrasse 50,Raeren,WLG,?,?
