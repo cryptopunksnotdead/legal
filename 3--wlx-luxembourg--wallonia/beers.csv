@@ -1,14 +1,14 @@
-Brewery,City,Name,Tags
-Brasserie Artisanale de Rulles,Habay-Rulles,BiÃ¨re de Gamme,?
-Brasserie Artisanale de Rulles,Habay-Rulles,Triple,?
-Brasserie D'Achouffe,Houffalize-Achouffe,BiÃ¨re de Mars,?
-Brasserie D'Achouffe,Houffalize-Achouffe,Chouffe-Bok,?
-Brasserie D'Achouffe,Houffalize-Achouffe,Houblon,?
-Brasserie D'Achouffe,Houffalize-Achouffe,La Chouffe Golden Ale,?
-Brasserie D'Achouffe,Houffalize-Achouffe,McChouffe,?
-Brasserie Fantme,Soy,Chocolat,?
-Brasserie Fantme,Soy,Dark White,?
-Brasserie Fantme,Soy,Speciale NoÃ«l,?
-Brasserie Fantme,Soy,Strange Ghost,?
-Brasserie d'Orval,Villers-devant-Orval,Orval Trappist Ale,?
-Brasserie d'Orval,Villers-devant-Orval,Petite Orval,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brasserie Artisanale de Rulles,Habay-Rulles,BiÃ¨re de Gamme,?,?,?,?
+Brasserie Artisanale de Rulles,Habay-Rulles,Triple,8.4%,?,?,belgian_and_french_ale|belgian_style_tripel
+Brasserie D'Achouffe,Houffalize-Achouffe,BiÃ¨re de Mars,?,?,?,?
+Brasserie D'Achouffe,Houffalize-Achouffe,Chouffe-Bok,6.6%,?,?,?
+Brasserie D'Achouffe,Houffalize-Achouffe,Houblon,9%,?,?,?
+Brasserie D'Achouffe,Houffalize-Achouffe,La Chouffe Golden Ale,8%,?,?,belgian_and_french_ale|belgian_style_pale_strong_ale
+Brasserie D'Achouffe,Houffalize-Achouffe,McChouffe,8.5%,?,?,north_american_ale|dark_american_belgo_style_ale
+Brasserie Fantme,Soy,Chocolat,8%,?,?,?
+Brasserie Fantme,Soy,Dark White,?,?,?,?
+Brasserie Fantme,Soy,Speciale NoÃ«l,?,?,?,?
+Brasserie Fantme,Soy,Strange Ghost,8%,?,?,?
+Brasserie d'Orval,Villers-devant-Orval,Orval Trappist Ale,6.9%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Brasserie d'Orval,Villers-devant-Orval,Petite Orval,3.5%,?,?,belgian_and_french_ale|other_belgian_style_ales

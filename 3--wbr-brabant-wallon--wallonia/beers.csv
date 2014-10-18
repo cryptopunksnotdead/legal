@@ -1,6 +1,6 @@
-Brewery,City,Name,Tags
-Brasserie Lefebvre,Quenast,Abbaye de Floreffe Double,?
-Brasserie Lefebvre,Quenast,Blanche de Bruxelles Mannekin Pis,?
-Brasserie Lefebvre,Quenast,Saison 1900,?
-Folx-les-Caves,Jauche,Grottenbier,?
-Palm Breweries,Steenhuffel,Palm Speciale,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brasserie Lefebvre,Quenast,Abbaye de Floreffe Double,6.3%,?,?,?
+Brasserie Lefebvre,Quenast,Blanche de Bruxelles Mannekin Pis,?,?,?,?
+Brasserie Lefebvre,Quenast,Saison 1900,5.2%,?,?,?
+Folx-les-Caves,Jauche,Grottenbier,6.5%,?,?,?
+Palm Breweries,Steenhuffel,Palm Speciale,5.2%,?,?,north_american_ale|american_style_amber_red_ale

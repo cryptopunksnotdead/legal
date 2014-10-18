@@ -1,27 +1,27 @@
-Brewery,City,Name,Tags
-Brewery Corsendonk,Oud-Turnhout,Abbey Brown Ale / Pater,?
-Brewery Corsendonk,Oud-Turnhout,Christmas Ale,?
-Brewery Corsendonk,Oud-Turnhout,Monk Brown Ale,?
-Brewery Corsendonk,Oud-Turnhout,Monk Pale Ale / Agnus Dei,?
-Brouwerij Abdij der Trappisten van Westmalle,Westmalle,Westmalle Trappist Dubbel,?
-Brouwerij Abdij der Trappisten van Westmalle,Westmalle,Westmalle Trappist Tripel,?
-Brouwerij Het Anker,Mechelen,Gouden Carolus Ambrio 1471,?
-Brouwerij Het Anker,Mechelen,Gouden Carolus Hopsinjoor,?
-Brouwerij Het Anker,Mechelen,Gouden Carolus NoÃ«l,?
-Brouwerij Het Anker,Mechelen,Gouden Carolus Tripel,?
-Brouwerij Het Anker,Mechelen,Grand Cru of the Emperor,?
-Brouwerij Sterkens,Hoogstraten-Meer,Bokrijks Kruikenbier,?
-Brouwerij Sterkens,Hoogstraten-Meer,Poorter,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Blond,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Double,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Special,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Triple,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Sebastiaan Dark,?
-Brouwerij Sterkens,Hoogstraten-Meer,St. Sebastiaan Golden,?
-Brouwerij Sterkens,Hoogstraten-Meer,White Ale,?
-Duvel Moortgat,Breendonk,Duvel,?
-Microbrouwerij Achilles,Itegem,Serafijn Christmas Angel,?
-Tongerlo,Westerlo,Tongerlo Christmas,?
-Tongerlo,Westerlo,Tongerlo Dubbel  Blond,?
-Tongerlo,Westerlo,Tongerlo Dubbel Bruin,?
-Tongerlo,Westerlo,Tongerlo Tripple,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brewery Corsendonk,Oud-Turnhout,Abbey Brown Ale / Pater,?,?,?,?
+Brewery Corsendonk,Oud-Turnhout,Christmas Ale,8.5%,?,?,?
+Brewery Corsendonk,Oud-Turnhout,Monk Brown Ale,?,?,?,?
+Brewery Corsendonk,Oud-Turnhout,Monk Pale Ale / Agnus Dei,?,?,?,?
+Brouwerij Abdij der Trappisten van Westmalle,Westmalle,Westmalle Trappist Dubbel,7%,?,?,?
+Brouwerij Abdij der Trappisten van Westmalle,Westmalle,Westmalle Trappist Tripel,9.5%,?,?,belgian_and_french_ale|belgian_style_tripel
+Brouwerij Het Anker,Mechelen,Gouden Carolus Ambrio 1471,8%,?,?,?
+Brouwerij Het Anker,Mechelen,Gouden Carolus Hopsinjoor,8%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Brouwerij Het Anker,Mechelen,Gouden Carolus NoÃ«l,?,?,?,?
+Brouwerij Het Anker,Mechelen,Gouden Carolus Tripel,9%,?,?,?
+Brouwerij Het Anker,Mechelen,Grand Cru of the Emperor,8%,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,Bokrijks Kruikenbier,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,Poorter,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Blond,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Double,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Special,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Paul Triple,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Sebastiaan Dark,?,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,St. Sebastiaan Golden,7.7%,?,?,?
+Brouwerij Sterkens,Hoogstraten-Meer,White Ale,?,?,?,?
+Duvel Moortgat,Breendonk,Duvel,8.5%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Microbrouwerij Achilles,Itegem,Serafijn Christmas Angel,8%,?,?,?
+Tongerlo,Westerlo,Tongerlo Christmas,6.5%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Tongerlo,Westerlo,Tongerlo Dubbel  Blond,6%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Tongerlo,Westerlo,Tongerlo Dubbel Bruin,6%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Tongerlo,Westerlo,Tongerlo Tripple,8%,?,?,belgian_and_french_ale|belgian_style_tripel

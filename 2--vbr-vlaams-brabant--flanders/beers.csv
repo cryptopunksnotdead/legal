@@ -1,38 +1,38 @@
-Brewery,City,Name,Tags
-3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Beersel,Drie Fonteinen Kriek,?
-3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Beersel,Oude Geuze,?
-Brasserie de la Senne,Sint-Pieters-Leeuw,Equinox Dark Belgian Winter,?
-Brasserie de la Senne,Sint-Pieters-Leeuw,Stouterik / The Brussels Stout,?
-Brasserie de la Senne,Sint-Pieters-Leeuw,Zinnebir,?
-Brasserie de la Senne,Sint-Pieters-Leeuw,Zinnebir Xmas,?
-Brewery De Troch,Ternat,Chapeau Exotic Lambic,?
-Brewery De Troch,Ternat,Chapeau Fraises Lambic,?
-Brewery De Troch,Ternat,Chapeau Framboise Lambic,?
-Brewery De Troch,Ternat,Chapeau Mirabelle Lambic,?
-Brewery De Troch,Ternat,Chapeau PÃªche Lambic,?
-Brewery De Troch,Ternat,Chapeau Tropical Lambic,?
-Brouwerij Artois,Leuven,Stella Artois,?
-Brouwerij Boon,Lembeek,Framboise 1997,?
-Brouwerij Boon,Lembeek,Geuze Boon,?
-Brouwerij Boon,Lembeek,Kriek,?
-Brouwerij Boon,Lembeek,Mariage Parfait 1995,?
-Brouwerij Boon,Lembeek,Pertotale Faro,?
-Brouwerij De Block,Merchtem-Peizegem,Satan Gold,?
-Brouwerij De Block,Merchtem-Peizegem,Satan Red,?
-Brouwerij De Keersmaeker,Kobbegem,Mort Subite Gueuze Lambic,?
-Brouwerij De Smedt,Opwijk,Affligem Dobbel,?
-Brouwerij De Smedt,Opwijk,Affligem NoÃ«l,?
-Brouwerij De Smedt,Opwijk,Affligem Tripel,?
-Brouwerij Duysters,Diest,Loterbol,?
-Brouwerij Girardin,Sint-Ulriks-Kapelle,Gueuze 1882,?
-Brouwerij Lindemans,Vlezenbeek,CuvÃ©e RenÃ© Grand Cru Gueuze Lambic,?
-Brouwerij Lindemans,Vlezenbeek,Framboise,?
-Brouwerij Lindemans,Vlezenbeek,Gueuze CuvÃ©e RenÃ©,?
-Brouwerij Lindemans,Vlezenbeek,Kriek,?
-Brouwerij Lindemans,Vlezenbeek,PÃªche / Pecheresse,?
-Brouwerij Oud Beersel,Beersel,Oude Gueuze Vielle,?
-Brouwerij van Hoegaarden,Hoegaarden,Hoegaarden,?
-Brouwerij van Hoegaarden,Hoegaarden,Original White Ale,?
-Hanssens Artisanal,Dworp,Oudbeitje,?
-Hanssens Artisanal,Dworp,Oude Gueuze,?
-Hanssens Artisanal,Dworp,Oude Kriek,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Beersel,Drie Fonteinen Kriek,5%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Beersel,Oude Geuze,6%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brasserie de la Senne,Sint-Pieters-Leeuw,Equinox Dark Belgian Winter,8%,?,?,?
+Brasserie de la Senne,Sint-Pieters-Leeuw,Stouterik / The Brussels Stout,?,?,?,?
+Brasserie de la Senne,Sint-Pieters-Leeuw,Zinnebir,?,?,?,north_american_ale|american_style_pale_ale
+Brasserie de la Senne,Sint-Pieters-Leeuw,Zinnebir Xmas,6.6%,?,?,?
+Brewery De Troch,Ternat,Chapeau Exotic Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brewery De Troch,Ternat,Chapeau Fraises Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brewery De Troch,Ternat,Chapeau Framboise Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brewery De Troch,Ternat,Chapeau Mirabelle Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brewery De Troch,Ternat,Chapeau PÃªche Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brewery De Troch,Ternat,Chapeau Tropical Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Artois,Leuven,Stella Artois,5.2%,?,?,north_american_lager|american_style_lager
+Brouwerij Boon,Lembeek,Framboise 1997,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Boon,Lembeek,Geuze Boon,6%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Boon,Lembeek,Kriek,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Boon,Lembeek,Mariage Parfait 1995,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Boon,Lembeek,Pertotale Faro,?,?,?,?
+Brouwerij De Block,Merchtem-Peizegem,Satan Gold,8%,?,?,?
+Brouwerij De Block,Merchtem-Peizegem,Satan Red,8%,?,?,?
+Brouwerij De Keersmaeker,Kobbegem,Mort Subite Gueuze Lambic,4.5%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij De Smedt,Opwijk,Affligem Dobbel,?,?,?,?
+Brouwerij De Smedt,Opwijk,Affligem NoÃ«l,?,?,?,?
+Brouwerij De Smedt,Opwijk,Affligem Tripel,?,?,?,?
+Brouwerij Duysters,Diest,Loterbol,8%,?,?,?
+Brouwerij Girardin,Sint-Ulriks-Kapelle,Gueuze 1882,5%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Lindemans,Vlezenbeek,CuvÃ©e RenÃ© Grand Cru Gueuze Lambic,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Lindemans,Vlezenbeek,Framboise,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Lindemans,Vlezenbeek,Gueuze CuvÃ©e RenÃ©,5%,?,?,?
+Brouwerij Lindemans,Vlezenbeek,Kriek,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Lindemans,Vlezenbeek,PÃªche / Pecheresse,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Oud Beersel,Beersel,Oude Gueuze Vielle,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij van Hoegaarden,Hoegaarden,Hoegaarden,4.9%,?,?,other_style|light_american_wheat_ale_or_lager
+Brouwerij van Hoegaarden,Hoegaarden,Original White Ale,5%,?,?,?
+Hanssens Artisanal,Dworp,Oudbeitje,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Hanssens Artisanal,Dworp,Oude Gueuze,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Hanssens Artisanal,Dworp,Oude Kriek,?,?,?,belgian_and_french_ale|belgian_style_fruit_lambic

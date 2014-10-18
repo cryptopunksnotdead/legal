@@ -1,66 +1,66 @@
-Brewery,City,Name,Tags
-Alvinne Picobrouwerij,Ingelmunster,Podge Belgian Imperial Stout,?
-Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren 12,?
-Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren 8,?
-Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren Blonde,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Aged Pale,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Blond Ale,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Dubbel Bruin Ale,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Gouden Tripel Ale,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Oud Bruin,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Speciale,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Witte Ezel,?
-Brouwerij Bavik - De Brabandere,Bavikhove,Wittekerke,?
-Brouwerij Bockor,Bellegem,Bellegems Bruin,?
-Brouwerij De Dolle Brouwers,Esen,Arabier,?
-Brouwerij De Dolle Brouwers,Esen,Bos Keun,?
-Brouwerij De Dolle Brouwers,Esen,Dulle Teve / Mad Bitch,?
-Brouwerij De Dolle Brouwers,Esen,Oerbier,?
-Brouwerij De Dolle Brouwers,Esen,Special Extra Export Stout,?
-Brouwerij De Dolle Brouwers,Esen,Stille Nacht,?
-Brouwerij De Ranke,Wevelgem,Guldenberg,?
-Brouwerij De Ranke,Wevelgem,Kriek,?
-Brouwerij De Ranke,Wevelgem,PÃ¨re NoÃ«l,?
-Brouwerij De Ranke,Wevelgem,XX Bitter,?
-Brouwerij De Regenboog,Assebroek,Vuuve,?
-Brouwerij Rodenbach,Roeselare,Alexander,?
-Brouwerij Rodenbach,Roeselare,Grand Cru,?
-Brouwerij Rodenbach,Roeselare,Rodenbach,?
-Brouwerij St. Bernardus,Watou,Abt 12,?
-Brouwerij St. Bernardus,Watou,BiÃ¨re Blanche,?
-Brouwerij St. Bernardus,Watou,Grotten Brown,?
-Brouwerij St. Bernardus,Watou,Grotten Flemish Ale,?
-Brouwerij St. Bernardus,Watou,Pater 6,?
-Brouwerij St. Bernardus,Watou,Prior 8,?
-Brouwerij St. Bernardus,Watou,St. Bernardus Tripel,?
-Brouwerij St. Bernardus,Watou,St. Bernardus Witbier,?
-Brouwerij St. Bernardus,Watou,Watou Tripel,?
-Brouwerij Strubbe,Ichtegem,Vlas Kop,?
-Brouwerij Van Eecke,Watou,Het Kapittel Abt,?
-Brouwerij Van Eecke,Watou,Het Kapittel Pater,?
-Brouwerij Van Eecke,Watou,Poperings Hommel Ale,?
-Brouwerij Van Honsebrouck,Ingelmunster,Brigand,?
-Brouwerij Van Honsebrouck,Ingelmunster,Kasteel Bier Brune,?
-Brouwerij Van Honsebrouck,Ingelmunster,Kasteel Bier Donker-Foncee,?
-Brouwerij Van Honsebrouck,Ingelmunster,St. Louis Gueuze,?
-Brouwerij Verhaeghe,Vichte,Duchesse de Bourgogne,?
-Brouwerij Verhaeghe,Vichte,Echte Kriek,?
-Brouwerij Verhaeghe,Vichte,Vichtenaar,?
-Brouwerij de Gouden Boom,Brugge,Blanche de Bruges,?
-De Halve Maan,Brugge,Brugse Zot,?
-De Halve Maan,Brugge,Brugse Zot Double,?
-De Halve Maan,Brugge,Straffe Hendrik Brugse,?
-De Halve Maan,Brugge,Straffe Hendrik Bruin,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Hibernius Quentum Ale,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Hop-It,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Novicius Vertus,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Samaranth Quadrium Ale,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Tonicum Finiboldhus,?
-De Leyerth Brouwerijen,Ruiselede,Urthel Vlaemse Bock,?
-De Struise Brouwers,Woesten,Black Albert,?
-De Struise Brouwers,Woesten,Pannepot,?
-De Struise Brouwers,Woesten,Witte,?
-Liefmans Breweries,Dentergem,All Saints Belgian Golden Ale,?
-Liefmans Breweries,Dentergem,All Saints Belgian White Ale,?
-Liefmans Breweries,Dentergem,Lucifer,?
-Liefmans Breweries,Dentergem,Vondel,?
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Alvinne Picobrouwerij,Ingelmunster,Podge Belgian Imperial Stout,10.5%,?,?,north_american_ale|american_style_stout
+Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren 12,11.2%,?,?,belgian_and_french_ale|belgian_style_quadrupel
+Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren 8,8%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Brouwerij Abdij Saint Sixtus,Westvleteren,Trappist Westvleteren Blonde,5.8%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Aged Pale,7.3%,?,?,?
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Blond Ale,6.6%,?,?,?
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Dubbel Bruin Ale,6.5%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Gouden Tripel Ale,7.5%,?,?,?
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Oud Bruin,5.5%,?,?,?
+Brouwerij Bavik - De Brabandere,Bavikhove,Petrus Speciale,5.5%,?,?,north_american_ale|american_style_pale_ale
+Brouwerij Bavik - De Brabandere,Bavikhove,Witte Ezel,?,?,?,?
+Brouwerij Bavik - De Brabandere,Bavikhove,Wittekerke,5%,?,?,?
+Brouwerij Bockor,Bellegem,Bellegems Bruin,5.5%,?,?,?
+Brouwerij De Dolle Brouwers,Esen,Arabier,9%,?,?,belgian_and_french_ale|belgian_style_pale_strong_ale
+Brouwerij De Dolle Brouwers,Esen,Bos Keun,8.9%,?,?,belgian_and_french_ale|belgian_style_pale_strong_ale
+Brouwerij De Dolle Brouwers,Esen,Dulle Teve / Mad Bitch,10%,?,?,?
+Brouwerij De Dolle Brouwers,Esen,Oerbier,7.5%,?,?,?
+Brouwerij De Dolle Brouwers,Esen,Special Extra Export Stout,9%,?,?,?
+Brouwerij De Dolle Brouwers,Esen,Stille Nacht,12%,?,?,?
+Brouwerij De Ranke,Wevelgem,Guldenberg,8.5%,?,?,?
+Brouwerij De Ranke,Wevelgem,Kriek,7%,?,?,?
+Brouwerij De Ranke,Wevelgem,PÃ¨re NoÃ«l,?,?,?,?
+Brouwerij De Ranke,Wevelgem,XX Bitter,6%,?,?,?
+Brouwerij De Regenboog,Assebroek,Vuuve,?,?,?,?
+Brouwerij Rodenbach,Roeselare,Alexander,?,?,?,?
+Brouwerij Rodenbach,Roeselare,Grand Cru,6%,?,?,?
+Brouwerij Rodenbach,Roeselare,Rodenbach,5.1%,?,?,?
+Brouwerij St. Bernardus,Watou,Abt 12,10%,?,?,belgian_and_french_ale|belgian_style_quadrupel
+Brouwerij St. Bernardus,Watou,BiÃ¨re Blanche,?,?,?,?
+Brouwerij St. Bernardus,Watou,Grotten Brown,6.7%,?,?,north_american_ale|dark_american_belgo_style_ale
+Brouwerij St. Bernardus,Watou,Grotten Flemish Ale,7.7%,?,?,belgian_and_french_ale|other_belgian_style_ales
+Brouwerij St. Bernardus,Watou,Pater 6,6.7%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Brouwerij St. Bernardus,Watou,Prior 8,8%,?,?,belgian_and_french_ale|belgian_style_dubbel
+Brouwerij St. Bernardus,Watou,St. Bernardus Tripel,8%,?,?,belgian_and_french_ale|belgian_style_tripel
+Brouwerij St. Bernardus,Watou,St. Bernardus Witbier,5.5%,?,?,belgian_and_french_ale|belgian_style_white
+Brouwerij St. Bernardus,Watou,Watou Tripel,7.5%,?,?,belgian_and_french_ale|belgian_style_tripel
+Brouwerij Strubbe,Ichtegem,Vlas Kop,5.5%,?,?,?
+Brouwerij Van Eecke,Watou,Het Kapittel Abt,10%,?,?,?
+Brouwerij Van Eecke,Watou,Het Kapittel Pater,?,?,?,?
+Brouwerij Van Eecke,Watou,Poperings Hommel Ale,7.5%,?,?,north_american_ale|american_style_pale_ale
+Brouwerij Van Honsebrouck,Ingelmunster,Brigand,9%,?,?,?
+Brouwerij Van Honsebrouck,Ingelmunster,Kasteel Bier Brune,11%,?,?,?
+Brouwerij Van Honsebrouck,Ingelmunster,Kasteel Bier Donker-Foncee,11%,?,?,?
+Brouwerij Van Honsebrouck,Ingelmunster,St. Louis Gueuze,4.5%,?,?,belgian_and_french_ale|belgian_style_fruit_lambic
+Brouwerij Verhaeghe,Vichte,Duchesse de Bourgogne,6.2%,?,?,?
+Brouwerij Verhaeghe,Vichte,Echte Kriek,?,?,?,?
+Brouwerij Verhaeghe,Vichte,Vichtenaar,5.1%,?,?,?
+Brouwerij de Gouden Boom,Brugge,Blanche de Bruges,5%,?,?,?
+De Halve Maan,Brugge,Brugse Zot,6%,?,?,belgian_and_french_ale|other_belgian_style_ales
+De Halve Maan,Brugge,Brugse Zot Double,7%,?,?,belgian_and_french_ale|other_belgian_style_ales
+De Halve Maan,Brugge,Straffe Hendrik Brugse,?,?,?,?
+De Halve Maan,Brugge,Straffe Hendrik Bruin,?,?,?,?
+De Leyerth Brouwerijen,Ruiselede,Urthel Hibernius Quentum Ale,9%,?,?,?
+De Leyerth Brouwerijen,Ruiselede,Urthel Hop-It,9.5%,?,?,belgian_and_french_ale|other_belgian_style_ales
+De Leyerth Brouwerijen,Ruiselede,Urthel Novicius Vertus,5.9%,?,?,?
+De Leyerth Brouwerijen,Ruiselede,Urthel Samaranth Quadrium Ale,11.5%,?,?,?
+De Leyerth Brouwerijen,Ruiselede,Urthel Tonicum Finiboldhus,7.5%,?,?,?
+De Leyerth Brouwerijen,Ruiselede,Urthel Vlaemse Bock,7.5%,?,?,german_lager|traditional_german_style_bock
+De Struise Brouwers,Woesten,Black Albert,13%,?,?,north_american_ale|american_style_imperial_stout
+De Struise Brouwers,Woesten,Pannepot,10%,?,?,?
+De Struise Brouwers,Woesten,Witte,5%,?,?,?
+Liefmans Breweries,Dentergem,All Saints Belgian Golden Ale,?,?,?,?
+Liefmans Breweries,Dentergem,All Saints Belgian White Ale,?,?,?,?
+Liefmans Breweries,Dentergem,Lucifer,8%,?,?,?
+Liefmans Breweries,Dentergem,Vondel,?,?,?,?
