@@ -1,7 +1,7 @@
-Name,Address,City,State,Code,Website
-Abbaye Notre Dame du St Remy,Rue de l'Abbaye 8,Rochefort,WNA,?,?
-Abbaye de Leffe,Dinant,Dinant,WNA,?,?
-Abbaye de Maredsous,Rue de Maredsous | 11,Dene,WNA,?,?
-Brasserie De Silenrieux,Rue de Noupr s/n,Cerfontaine-Silenrieux,WNA,?,?
-Brasserie La Caracole,Cte Marie-Thrse 86,Falmignoul,WNA,?,?
-Brasserie du Bocq,Rue de la Brasserie 4,Purnode,WNA,?,?
+Name,Address,City,State,Code,Website,Tags
+Abbaye Notre Dame du St Remy,Rue de l'Abbaye 8,Rochefort,WNA,,?,?
+Abbaye de Leffe,Dinant,Dinant,WNA,,?,?
+Abbaye de Maredsous,Rue de Maredsous | 11,Dene,WNA,,?,?
+Brasserie De Silenrieux,Rue de Noupr s/n,Cerfontaine-Silenrieux,WNA,,?,?
+Brasserie La Caracole,Cte Marie-Thrse 86,Falmignoul,WNA,,?,?
+Brasserie du Bocq,Rue de la Brasserie 4,Purnode,WNA,,?,?

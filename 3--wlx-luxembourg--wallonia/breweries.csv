@@ -1,5 +1,5 @@
-Name,Address,City,State,Code,Website
-Brasserie Artisanale de Rulles,Rue Maurice Grevisse 36,Habay-Rulles,WLX,?,?
-Brasserie D'Achouffe,Rue du Village 32,Houffalize-Achouffe,WLX,?,?
-Brasserie Fantme,Rue Pral 8,Soy,WLX,?,?
-Brasserie d'Orval,Abbaye de Notre-Dame d'Orval,Villers-devant-Orval,WLX,?,?
+Name,Address,City,State,Code,Website,Tags
+Brasserie Artisanale de Rulles,Rue Maurice Grevisse 36,Habay-Rulles,WLX,,?,?
+Brasserie D'Achouffe,Rue du Village 32,Houffalize-Achouffe,WLX,,?,?
+Brasserie Fantme,Rue Pral 8,Soy,WLX,,?,?
+Brasserie d'Orval,Abbaye de Notre-Dame d'Orval,Villers-devant-Orval,WLX,,?,?
