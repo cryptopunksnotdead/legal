@@ -2,9 +2,11 @@
 # GitHub Support Email(s) On .github
 
 
+
 ```
 Subject: [GitHub Support] - [GitHub] DMCA Takedown Notice - https://github.com/cryptopunksnotdead/.github
-Date: Feb 22, 2023
+Date: Feb 22, 2023, 12:32 AM
+From: support @ github.com
 
 
 Hi (Crypto) Punk's Not Dead - 24×24 Pixel Art on the Blockchain!,
@@ -37,9 +39,15 @@ and
 
 ```
 Subject: [GitHub] Repository access disabled for cryptopunksnotdead/.github
-Date: Feb 23rd, 2023
+Date: Feb 23rd, 2023, 12:46 AM
+From: support @ github.com
 
 
+Access to the cryptopunksnotdead/.github repository has been disabled by
+GitHub staff due to a terms of service violation. You may contact GitHub
+Support for more information or to request a review of this decision:
+Contact GitHub Support
 
+You may review our terms of service here: GitHub's Terms of Service
 ```
 

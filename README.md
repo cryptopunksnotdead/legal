@@ -5,7 +5,32 @@
 
 ## UNDER ATTACK
 
-Since Febuary 16th, 2023 the (crypto) punk's not dead org (& repos) are under attack.
+> **[GitHub] Repository unavailable due to DMCA takedown.**
+>
+> This repository is currently disabled due to a DMCA takedown notice.
+> We have disabled public access to the repository.
+> The notice has been publicly posted.
+>
+>  o o o
+>
+> **This [GitHub] repository has been disabled.**
+>
+> Access to this repository has been disabled by GitHub Staff
+>  due to a violation of GitHub's terms of service.
+> Contact Support for more information or to request a review of this decision.
+>
+>  o o o
+>
+>  **This [Reddit] community has been banned.**
+>
+> This subreddit was banned due
+> to a violation of Reddit's content policy against harassing content.
+>
+
+
+
+
+Since Febuary 14th, 2023 the (crypto) punk's not dead org (& repos) are under attack.
 
 I (Gerald Bauer) am the founder / admin / maintainer of the org
 and try to document the abuse and absurdity.
@@ -48,6 +73,7 @@ is asking my humble self first. I am "doxxed" and easy to contact.
 
 
 
+
 ### Timeline
 
 February 14th, 2023 - DMCA Notice Filing
@@ -55,12 +81,12 @@ February 14th, 2023 - DMCA Notice Filing
 See [2023-02-14-morepunks-dmca.md](2023-02-14-morepunks-dmca.md)
 
 
-February 16th, 2023 - GitHub Support DMCA Take Down Emails
+February 14th, 2023 - GitHub Support DMCA Take Down Emails
 
 I (Gerald Bauer) get first noticed by email about the dmca take down abuse
 by (automated) github support emails.
 
-See [2023-02-16-emails-github-support-dmca-takedown.md](2023-02-16-emails-github-support-dmca-takedown.md)
+See [2023-02-14-emails-github-support-dmca-takedown.md](2023-02-14-emails-github-support-dmca-takedown.md)
 
 
 February 22nd, 2023  - cryptopunksnotdead/.github Term-Of-Service Violation (And Repo Disabled)
@@ -267,3 +293,14 @@ Note:  A backup mirror of the taken down (crypto) punk's not dead repos is now l
 ## Legal & Financial (Con-Art) Fraud F.A.Q.
 
 ...
+
+
+
+
+
+
+
+## Questions? Comments?
+
+Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
+
