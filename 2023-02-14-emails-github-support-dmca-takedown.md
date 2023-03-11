@@ -5,7 +5,7 @@ I (Gerald Bauer) got ten emails - one for every repo -
 all with the same text formula:
 
 ```
-Subject: [GitHub Support] - [GitHub] DMCA Takedown Notice - https://github.com/cryptopunksnotdead/lets-go-programming-cryptopunks
+Subject: [GitHub Support] - [GitHub] DMCA Takedown Notice - cryptopunksnotdead/lets-go-programming-cryptopunks
 Date: Feb 14th, 2023, 10:45 PM
 From: support @ github.com
 
