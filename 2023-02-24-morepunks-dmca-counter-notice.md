@@ -39,7 +39,8 @@ Dispute the notice.
 **Q: Is there anything else you think we should know about why you believe the material was removed as a result of a mistake?**
 
 
-First there's no copy - the images are all original, that is, they are all new\ncomputer-generated (pixel art) images in the tiny 24 by 24 pixel (24x24px) format
+First there's no copy - the images are all original, that is, they are all new
+computer-generated (pixel art) images in the tiny 24 by 24 pixel (24x24px) format
 by myself (that is, nothing has been copied from opensea.io/collection/morepunks - for example, an official
 more punks "original" punk image is 1200x1200px with gray-ish background).
 
@@ -47,7 +48,8 @@ One way to see if there's a duplicate (of the images referenced via "1000 More P
 is to generate a hash digest / fingerprint (md5, sha256)
 from the "official" images files and than proof that there are no duplicates / no matching digests / fingerprints.
 
-Most repos in the take down request / file are awesome readmes, that is,  history notes / documentation\nwith images (falling under fair use¹) or programming step-by-step tutorials / guides for learning & education
+Most repos in the take down request / file are awesome readmes, that is,  history notes / documentation
+with images (falling under fair use¹) or programming step-by-step tutorials / guides for learning & education
 (falling under fair use¹).
 
 ¹: even if the asserted / false claim of copyright would be taken into consideration.
@@ -76,7 +78,8 @@ it is up for debate if you can claim or protect 24x24 (8-bit) pixel art (compute
 and claiming all rights to all pixel demons, vampires or orcs in 24x24px for all-time by simply - as in this case -
 uploading an image as an anonymous (More Punks) user.
 It is questionable and for the court (legal copyright scholars) to decide
-and even a fraud (like uploading / minting a solid color (block) to the blockchain and than claiming\nto "own" the (sole / exclusive) copyright to the color for all sizes and images etc.).
+and even a fraud (like uploading / minting a solid color (block) to the blockchain and than claiming
+to "own" the (sole / exclusive) copyright to the color for all sizes and images etc.).
 
 Let me quote / hightlight two public legal opinions on 24x24 pixel art in the "punk" portrait head style:
 
