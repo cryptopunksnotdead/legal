@@ -1,13 +1,13 @@
 # More Reddit Updates
 
-On Wed, March 29th 2023 I get a private message 
-from AdminMessengerBot via /r/reddit.com sent
+On Wed, March 29th 2023 I got a private message [response]
+sent via /r/reddit.com from AdminMessengerBot
 
 **re: Subreddit Ban Appeal on r/CryptoPunksDev**
 
 Thank you for your report! We appreciate you sending this in, 
 but we no longer use this system to handle reports that can be made here [http://www.reddit.com/report]. 
-If you don’t have an account, don’t worry, you can go here [https://www.reddithelp.com/hc/en-us/requests/new].
+If you don't have an account, don't worry, you can go here [https://www.reddithelp.com/hc/en-us/requests/new].
 
 For account issues please visit this article [https://www.reddithelp.com/hc/en-us/articles/360045734511].
 
@@ -40,7 +40,7 @@ After asking around on r/ModSupport I get the response:
 
 > Send a modmail here with all of the details.
 
-So I send a (private) modmail with all the details to /r/ModSupport   on Thu, March 30th 2023
+So I sent a (private) modmail with all the details to /r/ModSupport on Thu, March 30th 2023
 
 **Appeal To Unban r/CryptoPunksDev  - I Am The Founder / Mod**
 
