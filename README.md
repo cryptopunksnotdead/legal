@@ -30,6 +30,14 @@
 
 
 
+Note: As far as I can tell this absurdity is all caused (and driven) by
+"More Punks".
+Thus, the big question [**Who's the "More Punks" Crypto Bro?**](morepunks.md).  If anyone has any news or inside info about "More Punks", please help (and tell).
+
+
+
+
+
 Since Febuary 14th, 2023 the (crypto) punk's not dead org (& repos) are under attack.
 
 I (Gerald Bauer) am the founder / admin / maintainer of the org
