@@ -73,7 +73,7 @@ As of April 7th, 2023 - the latest posting (tweet) is from July 16th, 2022.
 
 
 And finally let's check the (crypto ethereum) acccount
-on open sea ->  here's where the money gets into "More Punks" pockets.
+on open sea <https://opensea.io/MorePunks> - here's where the money gets into "More Punks" pockets.
 
 The linked ethereum account is [**<0xa4ABF37c95DD90e1f4FD2Bc5D519d9dEeA19609c>**](https://etherscan.io/address/0xa4ABF37c95DD90e1f4FD2Bc5D519d9dEeA19609c)
 and it shows tens of thousands of dollars rolling in (in ETH)
