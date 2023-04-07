@@ -279,11 +279,14 @@ So far I got - Your message has been delivered.
 
 
 
+## What's News? Any Updates?
 
+April 2023
 
+No news on reddit  I sent two more "modmails" aksing for help to unban or any comment or such. Nil. Nada.  See [**reddit.md**](reddit.md).
 
-
-
+On github:  I got a response to confirm that I want to get the counter notice processing get started.  I confirmed, please do.
+Now I am waiting and waiting... and if I ask or send new info  .. I get we are reviewing your notice ...
 
 
 
