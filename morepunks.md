@@ -18,7 +18,7 @@ Let's check the domain service name (dns) record via who.is - <https://who.is/wh
 
 ![](i/morepunks-whois-i.png)
 
-![](i/morepunks-whois-i.png)
+![](i/morepunks-whois-ii.png)
 
 
 The record says "Expires On 2023-04-03",
