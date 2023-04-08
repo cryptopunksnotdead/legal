@@ -49,7 +49,7 @@ see [2023-02-24-morepunks-dmca-counter-notice.md](2023-02-24-morepunks-dmca-coun
 
 
 Note:  I documentend and posted the call to help
-first to [r/CryptoPunksDev](https://old.reddit.com/r/CryptoPunksDev) (where I am the founder / admin of the subreddit)  and the subreddit got banned (closed-down without notice) on February 28th, 2023  -
+first to [r/CryptoPunksDev](https://old.reddit.com/r/CryptoPunksDev) (where I am the founder / mod of the subreddit)  and the subreddit got banned (closed-down without notice) on February 28th, 2023  -
 I assume for a post where I ask for help, that is, "Please, Help - Who Is The Crypto Bro (Or Who Are The Buy-Out Investor(s)) Behind the Anonymous (1000) More Punks Operation - Any Tips & (Inside) Information Welcome"
 Believe it or not - the anoynmous crypto bro(s) behind "More Punks" claim a violation of Reddit's content policy against  harassing content and delete a forum
 with hundreds of posts and a 3-year-history
@@ -254,7 +254,7 @@ I found out today (February, 28th 2023) by surprise without any notice that r/Cr
 >
 > Banned 3 hours ago.
 
-I (Gerald Bauer, from Austria with a nine-year club and verified-email user reddit account) am the founder / admin / mod of this r/CryptoPunksDev forum/subreddit on reddit with a 3 year or more history and hundreds of posts.
+I (Gerald Bauer, from Austria with a nine-year club and verified-email user reddit account) am the founder / mod of this r/CryptoPunksDev forum/subreddit on reddit with a 3 year or more history and hundreds of posts.
 
 Note: The r/CryptoPunksDev is an education initiative to help with warning about crypto fraud / scams (and, thus, some might be unhappy like the anonymous crypto brother filing the harassment report abuse).
 
