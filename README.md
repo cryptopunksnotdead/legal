@@ -34,8 +34,8 @@ Note: As far as I can tell this absurdity is all caused (and driven) by
 "More Punks".
 Thus, the big question Who's the "More Punks" Crypto Bro?.
 
-[Editor's Note: Github Support requested the removal of the page
-saying  "[it violates our [Doxxing and Invasion of Privacy policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)" -
+[Editor's Note: Github Support requested the removal of the "Who's the "More Punks" Crypto Bro?" page
+saying  "it violates our [Doxxing and Invasion of Privacy policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)" -
 the page only highlighted public information about "More Punks" online presence (OpenSea, etc.) - to stop the absurdity I deleted the page - no questions asked].
 
 
