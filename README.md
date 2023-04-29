@@ -2,6 +2,13 @@
 # (Crypto) Punk's Not Dead Legal F.A.Q. & Updates
 
 
+Quick Update (April, 29th) -   Thanks to Github Support (and the Trust & Security Team) for accepting (and publishing) the dmca counter notice and for restoring the 10 take down repos.
+
+Note:  The .github repo is still disabled (requested by "More Punks") and no news on reddit - I have to assume that the reddit forum is lost forever (because of "More Punks" claiming harassment on my reporting caused by the "More Punks" dmca take downs).  I try to update the timeline here over the next weeks...
+
+One lesson from the call for help & support ... nobody cares anyway and I am on my own - what suruprise.  Anyways, I keep talking to myself over here...
+
+
 
 ## UNDER ATTACK
 
