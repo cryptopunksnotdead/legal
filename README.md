@@ -3,9 +3,9 @@
 
 
 **Quick Update (April, 29th)** -   Thanks to Github Support (and the Trust & Security Team) for [accepting (and publishing) the dmca counter notice](https://github.com/github/dmca/blob/master/2023/04/2023-04-13-morepunks-counternotice.md) 
-and for restoring the 10 taken-down repos.
+and for restoring the 10 taken-down repos and reenabling the .github repo for deletion (that included a single profile/README.md page) to start from scratch at a later time. 
 
-Note:  The .github repo is still disabled (requested by "More Punks") and no news on reddit - I have to assume that the reddit forum is lost forever (because of "More Punks" claiming harassment on my reporting caused by the "More Punks" dmca take downs).  I try to update the timeline here over the next weeks...
+Note: No news on reddit - nada, zero, zilch - I have to assume that the reddit forum is lost forever (because of "More Punks" claiming harassment on my reporting caused by the "More Punks" dmca take downs).  I try to update the timeline here over the next weeks...
 
 One lesson from the call for help & support... nobody cares anyway and - what surprise - I am on my own.  Anyways, I keep talking to myself over here...
 
